@@ -15,7 +15,7 @@
                     <tr>
                         <th>Id</th>
                         <td>
-                            <input type="number" name="id"
+                            <input type="number" name="id" disabled
                                    value="<%= book.getId() %>">
                         </td>
                     </tr>
